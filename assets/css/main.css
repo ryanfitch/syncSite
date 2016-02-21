@@ -50,6 +50,13 @@
 
 /* Grid */
 
+    .filmPics {
+        float: right;
+        padding-left: 25px;
+        width: 60%;
+        height: auto;
+    }
+
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
